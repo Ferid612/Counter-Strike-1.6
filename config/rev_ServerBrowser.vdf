@@ -1,0 +1,97 @@
+"filters"
+{
+	"favorites"
+	{
+		"0"
+		{
+			"name"	"[Fleshas.lt] Public DM 24/7"
+			"address"	"91.211.246.7:27015"
+			"lastplayed"	"1462108110"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"1"
+		{
+			"name"	"[Fleshas.lt] Knife-Arena 24/7"
+			"address"	"91.211.246.7:27018"
+			"lastplayed"	"1462108110"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"2"
+		{
+			"name"	"Favorite server 0"
+			"address"	"45.81.252.13:27015"
+			"lastplayed"	"999"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"3"
+		{
+			"name"	"Favorite server 1"
+			"address"	"51.75.83.57:27015"
+			"lastplayed"	"999"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"4"
+		{
+			"name"	"Favorite server 2"
+			"address"	"141.11.197.53:27044"
+			"lastplayed"	"999"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"5"
+		{
+			"name"	"Favorite server 3"
+			"address"	"103.214.68.10:27013"
+			"lastplayed"	"999"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"6"
+		{
+			"name"	"Favorite server 4"
+			"address"	"194.93.2.116:27015"
+			"lastplayed"	"999"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"7"
+		{
+			"name"	"Favorite server 5"
+			"address"	"91.211.118.49:27020"
+			"lastplayed"	"999"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"8"
+		{
+			"name"	"Favorite server 6"
+			"address"	"46.4.77.123:27015"
+			"lastplayed"	"999"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"9"
+		{
+			"name"	"Favorite server 7"
+			"address"	"45.144.155.171:27036"
+			"lastplayed"	"999"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+		"10"
+		{
+			"name"	"Favorite server 8"
+			"address"	"93.114.82.12:27015"
+			"lastplayed"	"999"
+			"appID"	"0"
+			"gamedir"	"cstrike"
+		}
+	}
+	"history"
+	{
+	}
+}

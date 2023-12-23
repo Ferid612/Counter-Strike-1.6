@@ -1,0 +1,10 @@
+
+
+[2013-11-05 12:46:25][0,0] : Log session started
+[2013-11-05 12:46:25][0,0] : SetSteamID( [A:1:0:0] )
+[2013-11-05 12:46:25][1,2] : Connect() starting connection (eNetQOSLevelLow, 208.111.158.53:27017, UDP)
+[2013-11-05 12:46:26][1,2] : ConnectionCompleted() (72.165.61.187:27017, UDP)
+[2013-11-05 12:46:27][1,2] : RecvMsgClientLogOnResponse() : 'OK'
+[2013-11-05 12:47:33][3,2] : LogOff()
+[2013-11-05 12:47:33][2,2] : AsyncDisconnect()
+[2013-11-05 12:47:33][2,0] : Log session ended
